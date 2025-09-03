@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-Me chamo João Victor Lopes, tenho 21 anos e sou natural de Aracaju-Se. Concluí o ensino médio no Senai, com o curso técnico em tecnologia da informação.  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT-SE. Sou apaixonado por tecnologia e um grande entusiasta do mundo geek. Estou entrando de cabeça na área da tecnologia para me desenvolver e elevar meu conhecimento. Para desenvolver softwares que possa ajudar outras pessoas. Meu Instagram, com o perfil chamado [joaolopest_]([https://www.instagram.com/joaolopest/](https://www.instagram.com/joaolopest_?igsh=MTkyajZvYTAyODU0Yw%3D%3D&utm_source=qr))".
+Me chamo João Victor Lopes, tenho 21 anos e sou natural de Aracaju-Se. Concluí o ensino médio no Senai, com o curso técnico em tecnologia da informação.  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT-SE. Sou apaixonado por tecnologia e um grande entusiasta do mundo geek. Estou entrando de cabeça na área da tecnologia para me desenvolver e elevar meu conhecimento. Para desenvolver softwares que possa ajudar outras pessoas. Meu Instagram, com o perfil chamado [joaolopest_](https://www.instagram.com/joaolopest_?igsh=MTkyajZvYTAyODU0Yw%3D%3D&utm_source=qr)".
 
 
 
