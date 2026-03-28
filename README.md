@@ -42,16 +42,6 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaolopest/joaolopest/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaolopest/joaolopest/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joaolopest/joaolopest/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="left">
   <a href="www.linkedin.com/in/joaolopest" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
