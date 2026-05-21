@@ -4,7 +4,7 @@
 
 <br/>
 
-**Disponível para** CLT no Brasil · remote roles worldwide · freelance premium via [ZenixCode](https://zenixcode.com)
+**Disponível para** CLT no Brasil · remote roles worldwide · freelance premium via [ZenixCode](https://zenixcode.com.br)
 
 <br/>
 
