@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="João Lopes — Full-Stack Developer · Co-founder @ ZenixCode" width="100%"/>
-</p>
+<h1>João Lopes</h1>
 
-<p align="center">
-  <sub>📍 Aracaju, BR · Disponível para <b>CLT no Brasil</b> · <b>remote roles worldwide</b> · <b>freelance premium</b> via <a href="https://zenixcode.com">ZenixCode</a></sub>
-</p>
+<sub>Full-Stack Developer · Co-founder @ ZenixCode · Aracaju, BR</sub>
+
+<br/>
+
+**Disponível para** CLT no Brasil · remote roles worldwide · freelance premium via [ZenixCode](https://zenixcode.com)
 
 <br/>
 
