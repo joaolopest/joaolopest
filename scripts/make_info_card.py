@@ -29,7 +29,7 @@ LINHAS = [
     ("Infra", "Docker · Coolify · Nginx · VPS"),
     ("IA", "Claude API · OpenAI · prompt engineering"),
     ("Aberto a", "CLT BR · remoto global · freelance"),
-    ("Mantra", "Motion é interface, não decoração."),
+    ("Mantra", "Se não roda a 60fps, não tá pronto."),
 ]
 CORES_PALETA = ["#0d1117", "#ff5f57", "#febc2e", "#28c840", "#39d353", "#58a6ff", "#bc8cff", "#e6edf3"]
 

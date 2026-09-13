@@ -27,7 +27,7 @@
 <g class="ln" style="animation-delay:1.56s"><text class="chave" x="24" y="291.5">Infra</text><text class="val" x="104" y="291.5">Docker · Coolify · Nginx · VPS</text></g>
 <g class="ln" style="animation-delay:1.67s"><text class="chave" x="24" y="311.0">IA</text><text class="val" x="104" y="311.0">Claude API · OpenAI · prompt engineering</text></g>
 <g class="ln" style="animation-delay:1.78s"><text class="chave" x="24" y="330.5">Aberto a</text><text class="val" x="104" y="330.5">CLT BR · remoto global · freelance</text></g>
-<g class="ln" style="animation-delay:1.89s"><text class="chave" x="24" y="350.0">Mantra</text><text class="val" x="104" y="350.0">Motion é interface, não decoração.</text></g>
+<g class="ln" style="animation-delay:1.89s"><text class="chave" x="24" y="350.0">Mantra</text><text class="val" x="104" y="350.0">Se não roda a 60fps, não tá pronto.</text></g>
 <g class="ln" style="animation-delay:2.00s"><rect x="24" y="373.5" width="22" height="12" rx="2" fill="#0d1117" stroke="#30363d"/><rect x="50" y="373.5" width="22" height="12" rx="2" fill="#ff5f57" stroke="#30363d"/><rect x="76" y="373.5" width="22" height="12" rx="2" fill="#febc2e" stroke="#30363d"/><rect x="102" y="373.5" width="22" height="12" rx="2" fill="#28c840" stroke="#30363d"/><rect x="128" y="373.5" width="22" height="12" rx="2" fill="#39d353" stroke="#30363d"/><rect x="154" y="373.5" width="22" height="12" rx="2" fill="#58a6ff" stroke="#30363d"/><rect x="180" y="373.5" width="22" height="12" rx="2" fill="#bc8cff" stroke="#30363d"/><rect x="206" y="373.5" width="22" height="12" rx="2" fill="#e6edf3" stroke="#30363d"/></g>
 <rect class="cursor" x="238" y="373.5" width="8" height="13" fill="#39d353"/>
 </svg>
