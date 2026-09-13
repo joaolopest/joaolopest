@@ -2,7 +2,7 @@
 
 <h3><code>joaolopest@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg?v=3" width="860" alt="Gráfico de contribuições do João Lopes nos últimos 12 meses" />
+<img src="./contrib-heatmap.svg?v=4" width="860" alt="Gráfico de contribuições do João Lopes nos últimos 12 meses" />
 
 <br><br>
 
@@ -10,8 +10,8 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="./joao-ascii.svg?v=3" width="370" alt="Retrato ASCII do João Lopes" /></td>
-    <td valign="top"><img src="./info-card.svg?v=3" width="490" alt="João Lopes · Full-Stack · Co-founder ZenixCode · Aracaju-SE · React, Next.js, TypeScript, Node, Prisma" /></td>
+    <td valign="top"><img src="./joao-ascii.svg?v=4" width="370" alt="Retrato ASCII do João Lopes" /></td>
+    <td valign="top"><img src="./info-card.svg?v=4" width="490" alt="João Lopes · Full-Stack · Co-founder ZenixCode · Aracaju-SE · React, Next.js, TypeScript, Node, Prisma" /></td>
   </tr>
 </table>
 

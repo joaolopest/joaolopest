@@ -8,7 +8,7 @@ from pathlib import Path
 from xml.sax.saxutils import escape
 
 import numpy as np
-from PIL import Image, ImageFilter
+from PIL import Image
 
 RAIZ = Path(__file__).resolve().parent.parent
 ENTRADA = RAIZ / "data" / "portrait-prepped.png"
@@ -24,22 +24,6 @@ TOPO = 40
 LARGURA_UTIL = LARGURA - 2 * MARGEM
 # faixas de brilho: índice mínimo na RAMPA → classe CSS
 FAIXAS = [(1, "t1"), (4, "t2"), (7, "t3"), (10, "t4")]
-INICIO_DISSOLVE = 0.64  # fração da altura onde a camiseta começa a se desfazer
-
-
-def dissolver_base(pixels: np.ndarray, bordas: np.ndarray) -> np.ndarray:
-    """Na base (camiseta), troca preenchimento liso por contorno e dissolve até sumir."""
-    linhas, colunas = pixels.shape
-    altura_rel = np.linspace(0, 1, linhas)[:, None]
-    peso = np.clip((altura_rel - INICIO_DISSOLVE) / (1 - INICIO_DISSOLVE), 0, 1)
-    peso = peso * peso * (3 - 2 * peso)  # smoothstep
-    contorno = np.maximum(bordas, pixels * 0.22)
-    mistura = pixels * (1 - peso) + contorno * peso
-    mistura *= 1 - peso * 0.55
-    # grão: some caractere aleatório com probabilidade crescente perto da base
-    sorteio = np.random.default_rng(7).random((linhas, colunas))
-    mistura[sorteio < peso * 0.6] = 0
-    return mistura
 
 
 def gerar_grade() -> list[str]:
@@ -47,15 +31,6 @@ def gerar_grade() -> list[str]:
     proporcao_char = 0.5  # caractere monoespaçado ≈ 2x mais alto que largo
     linhas = round(COLUNAS * imagem.height / imagem.width * proporcao_char)
     pixels = np.asarray(imagem.resize((COLUNAS, linhas), Image.LANCZOS), dtype=np.float32) / 255
-
-    bordas_imagem = imagem.filter(ImageFilter.FIND_EDGES).filter(ImageFilter.MaxFilter(5))
-    bordas = np.asarray(bordas_imagem.resize((COLUNAS, linhas), Image.BOX), dtype=np.float32)
-    bordas = np.clip(bordas / max(np.percentile(bordas, 98), 1), 0, 1)
-    # a borda do quadro corta a camiseta; isso não é contorno de verdade
-    bordas[:, :3] = bordas[:, -3:] = 0
-    bordas[-2:, :] = 0
-
-    pixels = dissolver_base(pixels, bordas)
     indices = np.clip((pixels ** 0.75) * (len(RAMPA) - 1) + 0.5, 0, len(RAMPA) - 1).astype(int)
     indices[pixels < 0.04] = 0
     return ["".join(RAMPA[i] for i in linha).rstrip() for linha in indices]
