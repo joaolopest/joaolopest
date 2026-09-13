@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="400" viewBox="0 0 490 400">
+<style>
+    text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:12.5px}
+    .dim{fill:#484f58}.val{fill:#e6edf3}.chave{fill:#39d353;font-weight:600}
+    .titulo{fill:#69f0a0;font-weight:700;font-size:14px}.prompt{fill:#39d353}
+    .barra{fill:#7d8590;font-size:11px}
+    
+    .ln{opacity:0;animation:entra .45s ease-out forwards}
+    @keyframes entra{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}
+    .cursor{animation:pisca 1s steps(1) infinite}
+    @keyframes pisca{50%{opacity:0}}
+    </style>
+<rect width="490" height="400" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle cx="20" cy="18" r="5" fill="#ff5f57"/><circle cx="38" cy="18" r="5" fill="#febc2e"/><circle cx="56" cy="18" r="5" fill="#28c840"/>
+<text class="barra" x="245.0" y="22" text-anchor="middle">~/joaolopest — zsh</text>
+<g class="ln" style="animation-delay:0.35s"><text class="prompt" x="24" y="52">❯</text><text class="val" x="40" y="52">neofetch</text></g>
+<g class="ln" style="animation-delay:0.46s"><text class="titulo" x="24" y="82">joaolopest@github</text><text class="dim" x="24" y="96">─────────────────</text></g>
+<g class="ln" style="animation-delay:0.57s"><text class="chave" x="24" y="116">Nome</text><text class="val" x="104" y="116">João Lopes</text></g>
+<g class="ln" style="animation-delay:0.68s"><text class="chave" x="24" y="135.5">Papel</text><text class="val" x="104" y="135.5">Full-Stack · Co-founder @ ZenixCode</text></g>
+<g class="ln" style="animation-delay:0.79s"><text class="chave" x="24" y="155.0">Local</text><text class="val" x="104" y="155.0">Aracaju-SE, Brasil</text></g>
+<g class="ln" style="animation-delay:0.90s"><text class="chave" x="24" y="174.5">Agora</text><text class="val" x="104" y="174.5">Simulados SEDU — plataforma estadual c/ IA</text></g>
+<g class="ln" style="animation-delay:1.01s"><text class="chave" x="24" y="194.0">Antes</text><text class="val" x="104" y="194.0">Painel Realtime · Porto Digital · CajuHub</text></g>
+<g class="ln" style="animation-delay:1.12s"><text class="chave" x="24" y="213.5">Front</text><text class="val" x="104" y="213.5">React · Next.js · TypeScript · Tailwind</text></g>
+<g class="ln" style="animation-delay:1.23s"><text class="chave" x="24" y="233.0">Motion</text><text class="val" x="104" y="233.0">Framer Motion · GSAP</text></g>
+<g class="ln" style="animation-delay:1.34s"><text class="chave" x="24" y="252.5">Back</text><text class="val" x="104" y="252.5">Node · Fastify · Hono · Prisma</text></g>
+<g class="ln" style="animation-delay:1.45s"><text class="chave" x="24" y="272.0">Dados</text><text class="val" x="104" y="272.0">PostgreSQL · MySQL · Supabase</text></g>
+<g class="ln" style="animation-delay:1.56s"><text class="chave" x="24" y="291.5">Infra</text><text class="val" x="104" y="291.5">Docker · Coolify · Nginx · VPS</text></g>
+<g class="ln" style="animation-delay:1.67s"><text class="chave" x="24" y="311.0">IA</text><text class="val" x="104" y="311.0">Claude API · OpenAI · prompt engineering</text></g>
+<g class="ln" style="animation-delay:1.78s"><text class="chave" x="24" y="330.5">Aberto a</text><text class="val" x="104" y="330.5">CLT BR · remoto global · freelance</text></g>
+<g class="ln" style="animation-delay:1.89s"><text class="chave" x="24" y="350.0">Mantra</text><text class="val" x="104" y="350.0">Motion é interface, não decoração.</text></g>
+<g class="ln" style="animation-delay:2.00s"><rect x="24" y="373.5" width="22" height="12" rx="2" fill="#0d1117" stroke="#30363d"/><rect x="50" y="373.5" width="22" height="12" rx="2" fill="#ff5f57" stroke="#30363d"/><rect x="76" y="373.5" width="22" height="12" rx="2" fill="#febc2e" stroke="#30363d"/><rect x="102" y="373.5" width="22" height="12" rx="2" fill="#28c840" stroke="#30363d"/><rect x="128" y="373.5" width="22" height="12" rx="2" fill="#39d353" stroke="#30363d"/><rect x="154" y="373.5" width="22" height="12" rx="2" fill="#58a6ff" stroke="#30363d"/><rect x="180" y="373.5" width="22" height="12" rx="2" fill="#bc8cff" stroke="#30363d"/><rect x="206" y="373.5" width="22" height="12" rx="2" fill="#e6edf3" stroke="#30363d"/></g>
+<rect class="cursor" x="238" y="373.5" width="8" height="13" fill="#39d353"/>
+</svg>
