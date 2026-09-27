@@ -1,42 +1,7 @@
 {
  "usuario": "joaolopest",
- "total": 1133,
+ "total": 1141,
  "dias": [
-  {
-   "data": "2025-09-21",
-   "nivel": 0,
-   "contagem": 0
-  },
-  {
-   "data": "2025-09-22",
-   "nivel": 0,
-   "contagem": 0
-  },
-  {
-   "data": "2025-09-23",
-   "nivel": 0,
-   "contagem": 0
-  },
-  {
-   "data": "2025-09-24",
-   "nivel": 0,
-   "contagem": 0
-  },
-  {
-   "data": "2025-09-25",
-   "nivel": 0,
-   "contagem": 0
-  },
-  {
-   "data": "2025-09-26",
-   "nivel": 0,
-   "contagem": 0
-  },
-  {
-   "data": "2025-09-27",
-   "nivel": 0,
-   "contagem": 0
-  },
   {
    "data": "2025-09-28",
    "nivel": 0,
@@ -1850,12 +1815,17 @@
   {
    "data": "2026-09-25",
    "nivel": 1,
-   "contagem": 3
+   "contagem": 4
   },
   {
    "data": "2026-09-26",
-   "nivel": 0,
-   "contagem": 0
+   "nivel": 1,
+   "contagem": 2
+  },
+  {
+   "data": "2026-09-27",
+   "nivel": 1,
+   "contagem": 5
   }
  ]
 }
