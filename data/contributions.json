@@ -1,6 +1,6 @@
 {
  "usuario": "joaolopest",
- "total": 1172,
+ "total": 1320,
  "dias": [
   {
    "data": "2025-10-05",
@@ -814,7 +814,7 @@
   },
   {
    "data": "2026-03-16",
-   "nivel": 3,
+   "nivel": 2,
    "contagem": 29
   },
   {
@@ -959,7 +959,7 @@
   },
   {
    "data": "2026-04-14",
-   "nivel": 3,
+   "nivel": 2,
    "contagem": 29
   },
   {
@@ -974,7 +974,7 @@
   },
   {
    "data": "2026-04-17",
-   "nivel": 2,
+   "nivel": 1,
    "contagem": 21
   },
   {
@@ -994,7 +994,7 @@
   },
   {
    "data": "2026-04-21",
-   "nivel": 2,
+   "nivel": 1,
    "contagem": 22
   },
   {
@@ -1004,7 +1004,7 @@
   },
   {
    "data": "2026-04-23",
-   "nivel": 4,
+   "nivel": 3,
    "contagem": 50
   },
   {
@@ -1069,7 +1069,7 @@
   },
   {
    "data": "2026-05-06",
-   "nivel": 2,
+   "nivel": 1,
    "contagem": 12
   },
   {
@@ -1149,12 +1149,12 @@
   },
   {
    "data": "2026-05-22",
-   "nivel": 2,
+   "nivel": 1,
    "contagem": 16
   },
   {
    "data": "2026-05-23",
-   "nivel": 3,
+   "nivel": 2,
    "contagem": 34
   },
   {
@@ -1204,22 +1204,22 @@
   },
   {
    "data": "2026-06-02",
-   "nivel": 4,
+   "nivel": 2,
    "contagem": 38
   },
   {
    "data": "2026-06-03",
-   "nivel": 4,
+   "nivel": 2,
    "contagem": 41
   },
   {
    "data": "2026-06-04",
-   "nivel": 4,
+   "nivel": 2,
    "contagem": 40
   },
   {
    "data": "2026-06-05",
-   "nivel": 4,
+   "nivel": 2,
    "contagem": 46
   },
   {
@@ -1244,12 +1244,12 @@
   },
   {
    "data": "2026-06-10",
-   "nivel": 2,
+   "nivel": 1,
    "contagem": 14
   },
   {
    "data": "2026-06-11",
-   "nivel": 2,
+   "nivel": 1,
    "contagem": 19
   },
   {
@@ -1294,17 +1294,17 @@
   },
   {
    "data": "2026-06-20",
-   "nivel": 3,
+   "nivel": 2,
    "contagem": 28
   },
   {
    "data": "2026-06-21",
-   "nivel": 2,
+   "nivel": 1,
    "contagem": 20
   },
   {
    "data": "2026-06-22",
-   "nivel": 2,
+   "nivel": 1,
    "contagem": 21
   },
   {
@@ -1344,42 +1344,42 @@
   },
   {
    "data": "2026-06-30",
-   "nivel": 2,
+   "nivel": 1,
    "contagem": 12
   },
   {
    "data": "2026-07-01",
-   "nivel": 3,
+   "nivel": 2,
    "contagem": 32
   },
   {
    "data": "2026-07-02",
-   "nivel": 3,
+   "nivel": 2,
    "contagem": 30
   },
   {
    "data": "2026-07-03",
-   "nivel": 2,
+   "nivel": 1,
    "contagem": 19
   },
   {
    "data": "2026-07-04",
-   "nivel": 3,
+   "nivel": 2,
    "contagem": 34
   },
   {
    "data": "2026-07-05",
-   "nivel": 2,
+   "nivel": 1,
    "contagem": 14
   },
   {
    "data": "2026-07-06",
-   "nivel": 2,
+   "nivel": 1,
    "contagem": 20
   },
   {
    "data": "2026-07-07",
-   "nivel": 3,
+   "nivel": 2,
    "contagem": 27
   },
   {
@@ -1429,7 +1429,7 @@
   },
   {
    "data": "2026-07-17",
-   "nivel": 2,
+   "nivel": 1,
    "contagem": 16
   },
   {
@@ -1444,12 +1444,12 @@
   },
   {
    "data": "2026-07-20",
-   "nivel": 2,
+   "nivel": 1,
    "contagem": 16
   },
   {
    "data": "2026-07-21",
-   "nivel": 2,
+   "nivel": 1,
    "contagem": 17
   },
   {
@@ -1479,12 +1479,12 @@
   },
   {
    "data": "2026-07-27",
-   "nivel": 3,
+   "nivel": 2,
    "contagem": 27
   },
   {
    "data": "2026-07-28",
-   "nivel": 2,
+   "nivel": 1,
    "contagem": 13
   },
   {
@@ -1669,7 +1669,7 @@
   },
   {
    "data": "2026-09-03",
-   "nivel": 3,
+   "nivel": 2,
    "contagem": 25
   },
   {
@@ -1719,12 +1719,12 @@
   },
   {
    "data": "2026-09-13",
-   "nivel": 2,
+   "nivel": 1,
    "contagem": 12
   },
   {
    "data": "2026-09-14",
-   "nivel": 2,
+   "nivel": 1,
    "contagem": 22
   },
   {
@@ -1739,7 +1739,7 @@
   },
   {
    "data": "2026-09-17",
-   "nivel": 3,
+   "nivel": 2,
    "contagem": 24
   },
   {
@@ -1769,7 +1769,7 @@
   },
   {
    "data": "2026-09-23",
-   "nivel": 3,
+   "nivel": 2,
    "contagem": 29
   },
   {
@@ -1799,7 +1799,7 @@
   },
   {
    "data": "2026-09-29",
-   "nivel": 2,
+   "nivel": 1,
    "contagem": 14
   },
   {
@@ -1834,11 +1834,16 @@
   },
   {
    "data": "2026-10-06",
-   "nivel": 1,
-   "contagem": 1
+   "nivel": 3,
+   "contagem": 55
   },
   {
    "data": "2026-10-07",
+   "nivel": 4,
+   "contagem": 94
+  },
+  {
+   "data": "2026-10-08",
    "nivel": 0,
    "contagem": 0
   }
