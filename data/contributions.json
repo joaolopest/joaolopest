@@ -1,42 +1,7 @@
 {
  "usuario": "joaolopest",
- "total": 1907,
+ "total": 1908,
  "dias": [
-  {
-   "data": "2025-10-19",
-   "nivel": 0,
-   "contagem": 0
-  },
-  {
-   "data": "2025-10-20",
-   "nivel": 0,
-   "contagem": 0
-  },
-  {
-   "data": "2025-10-21",
-   "nivel": 0,
-   "contagem": 0
-  },
-  {
-   "data": "2025-10-22",
-   "nivel": 0,
-   "contagem": 0
-  },
-  {
-   "data": "2025-10-23",
-   "nivel": 0,
-   "contagem": 0
-  },
-  {
-   "data": "2025-10-24",
-   "nivel": 0,
-   "contagem": 0
-  },
-  {
-   "data": "2025-10-25",
-   "nivel": 0,
-   "contagem": 0
-  },
   {
    "data": "2025-10-26",
    "nivel": 0,
@@ -1854,6 +1819,11 @@
   },
   {
    "data": "2026-10-24",
+   "nivel": 1,
+   "contagem": 1
+  },
+  {
+   "data": "2026-10-25",
    "nivel": 0,
    "contagem": 0
   }
