@@ -1,6 +1,6 @@
 {
  "usuario": "joaolopest",
- "total": 2077,
+ "total": 2091,
  "dias": [
   {
    "data": "2025-11-02",
@@ -1849,8 +1849,13 @@
   },
   {
    "data": "2026-11-06",
-   "nivel": 2,
-   "contagem": 39
+   "nivel": 3,
+   "contagem": 53
+  },
+  {
+   "data": "2026-11-07",
+   "nivel": 0,
+   "contagem": 0
   }
  ]
 }
